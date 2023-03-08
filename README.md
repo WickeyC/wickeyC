@@ -1,6 +1,11 @@
-### Hi there 👋
+### Wickey here 👾🤖
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wickeyc)]
+<img align="left" width="35%" src="https://github-readme-stats-two-swart-73.vercel.app/api/top-langs/?username=wickeyc&layout=compact&hide=html"/>
+
+<img align="left"  src="https://github-readme-stats-two-swart-73.vercel.app/api?username=wickeyc&count_private=true&show_icons=true&theme=radical"/>
+
+
+
 
 <!--
 **WickeyC/wickeyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
