@@ -2,7 +2,7 @@
 
 <img align="left" width="40%" src="https://github-readme-stats-two-swart-73.vercel.app/api/top-langs/?username=wickeyc&layout=compact&hide=html"/>
 
-<img align="left" width="60%" src="https://github-readme-stats-two-swart-73.vercel.app/api?username=wickeyc&count_private=true&show_icons=true&theme=radical"/>
+<img align="left" width="54%" src="https://github-readme-stats-two-swart-73.vercel.app/api?username=wickeyc&count_private=true&show_icons=true&theme=radical"/>
 
 
 
