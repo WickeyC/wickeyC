@@ -1,8 +1,8 @@
 ### Wickey here 👾🤖
 
-<img align="left" width="40%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyc&layout=compact&hide=html&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve"/>
+<img align="left" width="40%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyc&hide=html&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve"/>
 
-<img align="left" width="54%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api?username=wickeyc&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight"/>
+<img align="left" width="54%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api?username=wickeyc&count_private=true&show_icons=true&theme=tokyonight"/>
 
 <!-- <img align="left" width="54%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api?username=wickeyc&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs"/> -->
 <!--
