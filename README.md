@@ -1,9 +1,10 @@
 ### Wickey here 👾🤖
 
-<img align="left" width="40%" src="https://github-readme-stats-two-swart-73.vercel.app/api/top-langs/?username=wickeyc&layout=compact&hide=html&exclude_repo=github-readme-stats"/>
+<img align="left" width="40%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyc&layout=compact&hide=html&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve"/>
 
-<img align="left" width="54%" src="https://github-readme-stats-two-swart-73.vercel.app/api?username=wickeyc&count_private=true&show_icons=true&theme=radical"/>
+<img align="left" width="54%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api?username=wickeyc&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight"/>
 
+<!-- <img align="left" width="54%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api?username=wickeyc&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs"/> -->
 <!--
 **WickeyC/wickeyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
