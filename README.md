@@ -25,10 +25,10 @@
 #### My Github Stats
 <div>
 <!-- (https://git.io/streak-stats) -->
-<img align="left" width="48%" src="https://streak-stats.demolab.com?user=WickeyC&theme=dark&date_format=j%20M%5B%20Y%5D&"/>
+<img align="left" width="50%" src="https://streak-stats.demolab.com?user=WickeyC&theme=dark&date_format=j%20M%5B%20Y%5D&"/>
   
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
-<img align="left" width="34.5%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyc&hide=html&layout=compact&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve&theme=dark&custom_title=Languages"/>
+<img align="left" width="36%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyc&hide=html,jupyter%20notebook&layout=compact&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve&theme=dark&custom_title=Languages"/>
 </div>
 
 <sup><sup><sup>正在发育，请多指教</sup></sup></sup>
