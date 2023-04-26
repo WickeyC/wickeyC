@@ -2,7 +2,7 @@
 - 🔭 Currently pursing Bachelor of Software Engineering (Honours) at TARUMT
 
 #### I'm Learning 
-- 🤖 React
+- 🤖 Next.js
 - 👾 Solidity
 
 
