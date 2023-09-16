@@ -1,6 +1,6 @@
 ### Hello World, I am Wickey <sup> <sup>程序猿</sup> </sup>
 - 🔭 Currently pursing Bachelor of Software Engineering (Honours) at TARUMT (Current CGPA: 4.0)
-- Implemented React, TypeScript & PostGreSQL in Assignments
+- Exploring Next, TypeScript, Flask, PostGreSQL
 - Familiar with Figma
 - Interested in Fullstack Web Dev
 
