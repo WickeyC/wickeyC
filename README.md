@@ -1,11 +1,9 @@
 ### Hello World, I am Wickey <sup> <sup>程序猿</sup> </sup>
-- 🔭 Currently pursing Bachelor of Software Engineering (Honours) at TARUMT (Current CGPA: 4.0)
-- Exploring Next, TypeScript, Flask, PostGreSQL
-- Familiar with Figma
+- 🔭 Currently pursing Bachelor of Software Engineering (Honours) at TARUMT 
 - Interested in Fullstack Web Dev
 
-#### I'm Learning 
-- 🤖 Next.js
+#### Constant Upskilling 
+- 🤖 Next.js (React)
 - 👾 Solidity
 
 
