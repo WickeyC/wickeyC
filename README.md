@@ -4,8 +4,6 @@
 
 #### Constant Upskilling 
 - 🤖 Next.js (React)
-- 👾 Solidity
-
 
 <div id="header">
   <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="19%"/>
