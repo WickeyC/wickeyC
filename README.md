@@ -1,4 +1,4 @@
-[WickeyZ](https://github.com/WickeyZ)
+Find my work here: [WickeyZ](https://github.com/WickeyZ)
 <!--
 
 ### Hello World, I am Wickey <sup> <sup>程序猿</sup> </sup>
